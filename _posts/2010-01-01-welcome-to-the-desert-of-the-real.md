@@ -2,7 +2,7 @@
 date: 2019-05-16 23:48:05
 layout: post
 title: Welcome to the Hammer's Portfolio
-subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+subtitle: 'Hammer's game art study portfolio'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
